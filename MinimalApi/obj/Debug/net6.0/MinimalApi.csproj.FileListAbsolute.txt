@@ -89,11 +89,9 @@ C:\Users\Guilherme\Desktop\MinimalApi\MinimalApi\MinimalApi\bin\Debug\net6.0\Min
 C:\Users\Guilherme\Desktop\MinimalApi\MinimalApi\MinimalApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\Guilherme\Desktop\MinimalApi\MinimalApi\MinimalApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
 C:\Users\Guilherme\Desktop\MinimalApi\MinimalApi\MinimalApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
-C:\Users\Guilherme\Desktop\MinimalApi\MinimalApi\MinimalApi\bin\Debug\net6.0\Microsoft.AspNetCore.DataProtection.dll
-C:\Users\Guilherme\Desktop\MinimalApi\MinimalApi\MinimalApi\bin\Debug\net6.0\Microsoft.AspNetCore.DataProtection.Abstractions.dll
 C:\Users\Guilherme\Desktop\MinimalApi\MinimalApi\MinimalApi\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Users\Guilherme\Desktop\MinimalApi\MinimalApi\MinimalApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
 C:\Users\Guilherme\Desktop\MinimalApi\MinimalApi\MinimalApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\Guilherme\Desktop\MinimalApi\MinimalApi\MinimalApi\bin\Debug\net6.0\NetDevPack.Identity.dll
-C:\Users\Guilherme\Desktop\MinimalApi\MinimalApi\MinimalApi\bin\Debug\net6.0\NetDevPack.Security.Jwt.AspNetCore.dll
-C:\Users\Guilherme\Desktop\MinimalApi\MinimalApi\MinimalApi\bin\Debug\net6.0\NetDevPack.Security.Jwt.Core.dll
+C:\Users\Guilherme\Desktop\MinimalApi\MinimalApi\MinimalApi\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Guilherme\Desktop\MinimalApi\MinimalApi\MinimalApi\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
